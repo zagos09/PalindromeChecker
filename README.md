@@ -1,3 +1,5 @@
+Test it: https://zagos09.github.io/PalindromeChecker/
+
 Palindrome Checker
 
 -This project is part of the FreeCodeCamp JavaScript Algorithms and Data Structures Certification. The goal is to build a palindrome checker that determines whether a given string is a palindrome or not.
